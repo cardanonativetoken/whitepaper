@@ -6,7 +6,7 @@
 
 A community to support, develop and invest in all Cardano projects
 
-- ✨DeTransparent Community✨
+- ✨Transparent Community✨
 - ✨A token to educate people about native assets on Cardano✨
 - ✨Decentralise distribution of hodlers✨
 
