@@ -14,16 +14,17 @@ A community to support, develop and invest in all Cardano projects
 
 
 ## About
-CNT was launched as a DAO on the Cardano blockchain. A community to support, develop and invest in all Cardano projects
-CNT is unique in its organizational functioning as a DAO because it was designed to function as a society that functions well even without the founders team. The ambassadors manage the organization. With multi sig treasury wallets. Ambassadors are voluntary and vetted on by the community
+CNT was launched as a DAO on the Cardano blockchain. A community to support, develop and invest in all Cardano projects. CNT as a DAO it was designed to function well even without the founders team. The voluntary ambassadors manage the organization provided with multi sig treasury wallets and vetted on by the community.
 
 ## Tokenomics: 
 ![pie](https://user-images.githubusercontent.com/97835001/158364021-b850ecf5-5d77-4f70-a26e-c13e97f96235.jpg)
-- total supply: 21 million supply
+
 - 2 million airdrop 
 - 2 million team 
 - 5 million NFT
+- 2 million Development
 - 10 million vault treasury
+- total supply: 21 million supply
 
 ## CNT Policy ID:
 ```
@@ -32,19 +33,13 @@ CNT is unique in its organizational functioning as a DAO because it was designed
 
 
 ## Mission:
-- Exclusive NFT 
-
-- CNT Game Development Project
-
-- Stake Pool Launch
-
-- Ambassador Programs
+The mission of CNT  is to have an exclusive NFT platform, CNT Game Development Project with staking pools and ambassador programs with respect for demands from the community
 
 
 ## Treasury:
 Community Treasury for development/ investing and liquidity of CNT
 
-The Treasury has two vault. 1 is CNT treasury and the other ada Treasury. The plan is to fill the CNT treasury more by buying back CNT from market hence the value appreciation. And once we have too many CNT in treasury we can airdrop for marketing and circulate or stabilize price and demands. 
+The Treasury has two vaults - CNT treasury and ADA Treasury. The CNT treasury is filled by buying back CNT from market which appreciated the value of the token and when too many CNT is in treasury the tokens can be airdropped for marketing so as to stabilize the price and demand.
 
 ![vault](https://user-images.githubusercontent.com/97835001/158363039-53220e9c-4d74-422e-ac54-ae9696451503.jpg)
 > Treasury Wallet Address: addr1q89pfwnqz50cmvamrn4v2lw7gjl5pgz8spkeh8elxz8svyn0ag9gwrcu7rxl8r9g76lp2hcjuqpxe0cwey8la0keddasdu2sz4
