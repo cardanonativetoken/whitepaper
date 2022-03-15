@@ -1,3 +1,5 @@
+![hero-img](https://user-images.githubusercontent.com/97835001/158362703-d1d63908-b3c1-4eb3-b609-70af9ebb0325.png)
+
 # Cardano Native Token CNT
 ## Whitepaper
 
@@ -7,11 +9,15 @@ A community to support, develop and invest in all Cardano projects
 - ✨A token to educate people about native assets on Cardano✨
 -  ✨Decentralise distribution of hodlers✨
 
+
+
+
 ## About
 CNT was launched as a DAO on the Cardano blockchain. A community to support, develop and invest in all Cardano projects
 CNT is unique in its organizational functioning as a DAO because it was designed to function as a society that functions well even without the founders team. The ambassadors manage the organization. With multi sig treasury wallets. Ambassadors are voluntary and vetted on by the community
 
 ## Tokenomics: 
+![pie](https://user-images.githubusercontent.com/97835001/158364021-b850ecf5-5d77-4f70-a26e-c13e97f96235.jpg)
 - total supply: 21 million supply
 - 2 million airdrop 
 - 2 million team 
@@ -34,7 +40,7 @@ Community Treasury for development/ investing and liquidity of CNT
 
 The Treasury has two vault. 1 is CNT treasury and the other ada Treasury. The plan is to fill the CNT treasury more by buying back CNT from market hence the value appreciation. And once we have too many CNT in treasury we can airdrop for marketing and circulate or stabilize price and demands. 
 
-
+![vault](https://user-images.githubusercontent.com/97835001/158363039-53220e9c-4d74-422e-ac54-ae9696451503.jpg)
 > Treasury Wallet Address: addr1q89pfwnqz50cmvamrn4v2lw7gjl5pgz8spkeh8elxz8svyn0ag9gwrcu7rxl8r9g76lp2hcjuqpxe0cwey8la0keddasdu2sz4
 
 > CNT Treasury Wallet:
@@ -43,7 +49,7 @@ Addr1qxqw7xam9gxy8gqwmnys7vhfj95cc03dvsvs53jmx7k8l08t0adv4vs85kgf73cmp3am57v9vfp
 
 
 ## NFT:
-
+![PMC](https://user-images.githubusercontent.com/97835001/158363080-5ede16b9-bcf8-454b-a89a-1c129465e601.gif)
 - 100  Premium members NFT
 - Worth 5000 CNT swappable from treasury.
 
