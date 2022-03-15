@@ -8,7 +8,7 @@ A community to support, develop and invest in all Cardano projects
 
 - ✨DeTransparent Community✨
 - ✨A token to educate people about native assets on Cardano✨
--  ✨Decentralise distribution of hodlers✨
+- ✨Decentralise distribution of hodlers✨
 
 
 
@@ -24,7 +24,7 @@ CNT was launched as a DAO on the Cardano blockchain. A community to support, dev
 - 5 million NFT
 - 2 million Development
 - 10 million vault treasury
-- total supply: 21 million supply
+- Total Supply: 21 million supply
 
 ## CNT Policy ID:
 ```
