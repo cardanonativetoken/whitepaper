@@ -1,5 +1,6 @@
 ![hero-img](https://user-images.githubusercontent.com/97835001/158362703-d1d63908-b3c1-4eb3-b609-70af9ebb0325.png)
 
+
 # Cardano Native Token CNT
 ## Whitepaper
 
@@ -23,6 +24,11 @@ CNT is unique in its organizational functioning as a DAO because it was designed
 - 2 million team 
 - 5 million NFT
 - 10 million vault treasury
+
+## CNT Policy ID:
+```
+2c96f49b6e6e32ae69a182e85b74db4edfc9539496a13ab76d1258fa
+```
 
 
 ## Mission:
@@ -54,7 +60,7 @@ Addr1qxqw7xam9gxy8gqwmnys7vhfj95cc03dvsvs53jmx7k8l08t0adv4vs85kgf73cmp3am57v9vfp
 - Worth 5000 CNT swappable from treasury.
 
 
-## Policy ID:
+## PMC Policy ID:
 ```
 02fef1496948465d0f11540757850ef96d564e244fa381173e3ccaa4
 ```
